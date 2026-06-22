@@ -1,0 +1,42 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="jca"
+version="${mod_version}"
+displayName="JCA Talismans — 十二符咒"
+logoFile="jca_logo.png"
+credits="Based on Jackie Chan Adventures"
+authors="Talismans Team"
+description='''
+十二符咒模组 — 来自《成龙历险记》
+实现12种独特符咒物品，每种符咒具备忠实于原作的特殊能力。
+
+§l鼠符咒§r — 静与动：赋予静物生命
+§l牛符咒§r — 力：超级力量
+§l虎符咒§r — 平衡：精神与身体的平衡
+§l兔符咒§r — 速度：超级速度
+§l龙符咒§r — 爆破：火焰毁灭
+§l蛇符咒§r — 隐形：完全隐身
+§l马符咒§r — 治愈：治愈与再生
+§l羊符咒§r — 灵魂出窍：星体投射
+§l猴符咒§r — 变形：扭曲现实
+§l鸡符咒§r — 悬浮：自由飞行
+§l狗符咒§r — 永生：不死不灭
+§l猪符咒§r — 热视力：灼热激光
+'''
+
+[[dependencies.jca]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.jca]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

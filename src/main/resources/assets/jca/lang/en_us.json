@@ -1,0 +1,31 @@
+{
+  "itemGroup.jca_talismans": "§6Twelve Talismans §7| JCA",
+
+  "item.jca.rat_talisman": "Rat Talisman",
+  "item.jca.ox_talisman": "Ox Talisman",
+  "item.jca.tiger_talisman": "Tiger Talisman",
+  "item.jca.rabbit_talisman": "Rabbit Talisman",
+  "item.jca.dragon_talisman": "Dragon Talisman",
+  "item.jca.snake_talisman": "Snake Talisman",
+  "item.jca.horse_talisman": "Horse Talisman",
+  "item.jca.sheep_talisman": "Sheep Talisman",
+  "item.jca.monkey_talisman": "Monkey Talisman",
+  "item.jca.rooster_talisman": "Rooster Talisman",
+  "item.jca.dog_talisman": "Dog Talisman",
+  "item.jca.pig_talisman": "Pig Talisman",
+  "item.jca.talisman_box": "Talisman Box",
+
+  "tooltip.jca.rat": "§7Right-click entity to grant 100HP, kill drops ores",
+  "tooltip.jca.ox": "§7Grants Strength X, 10x attack damage",
+  "tooltip.jca.tiger": "§7Grants Resistance II, Slow Fall, KB Immunity",
+  "tooltip.jca.rabbit": "§7Grants Speed XX (lvl 20), flight boost with Rooster",
+  "tooltip.jca.dragon": "§7Right-click to launch a high-speed fireball",
+  "tooltip.jca.snake": "§7Right-click to toggle full invisibility (with armor)",
+  "tooltip.jca.horse": "§7Grants Regen IV & cleanses all negative effects",
+  "tooltip.jca.sheep": "§7Right-click for astral projection, again to return",
+  "tooltip.jca.monkey": "§7Right-click entity to transform it",
+  "tooltip.jca.rooster": "§7Right-click to toggle flight, faster with Rabbit",
+  "tooltip.jca.dog": "§7Immune to death (no cooldown), keeps 1 HP",
+  "tooltip.jca.pig": "§7Right-click to fire a long-range heat laser",
+  "tooltip.jca.box": "§7Main hand talisman + right-click box to store, offhand activates all"
+}

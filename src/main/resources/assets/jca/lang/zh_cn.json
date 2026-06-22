@@ -1,0 +1,31 @@
+{
+  "itemGroup.jca_talismans": "§6十二符咒 §7| JCA Talismans",
+
+  "item.jca.rat_talisman": "鼠符咒",
+  "item.jca.ox_talisman": "牛符咒",
+  "item.jca.tiger_talisman": "虎符咒",
+  "item.jca.rabbit_talisman": "兔符咒",
+  "item.jca.dragon_talisman": "龙符咒",
+  "item.jca.snake_talisman": "蛇符咒",
+  "item.jca.horse_talisman": "马符咒",
+  "item.jca.sheep_talisman": "羊符咒",
+  "item.jca.monkey_talisman": "猴符咒",
+  "item.jca.rooster_talisman": "鸡符咒",
+  "item.jca.dog_talisman": "狗符咒",
+  "item.jca.pig_talisman": "猪符咒",
+  "item.jca.talisman_box": "十二符咒盒",
+
+  "tooltip.jca.rat": "§7右键方块赋予1HP生命，打一下即碎掉落自身",
+  "tooltip.jca.ox": "§7手持获得力量X，10倍攻击力",
+  "tooltip.jca.tiger": "§7手持获得抗性II、缓降、防击退、跳跃提升",
+  "tooltip.jca.rabbit": "§7手持获得速度XX（20级），与鸡符咒联动飞行加速",
+  "tooltip.jca.dragon": "§7右键发射高速火龙弹",
+  "tooltip.jca.snake": "§7右键切换完全隐身（含盔甲）",
+  "tooltip.jca.horse": "§7手持获得生命恢复IV，自动清除负面效果",
+  "tooltip.jca.sheep": "§7右键灵魂出窍，再右键返回原模式",
+  "tooltip.jca.monkey": "§7右键生物变形，潜行右键变羊",
+  "tooltip.jca.rooster": "§7右键切换飞行，与兔符咒联动极速飞行",
+  "tooltip.jca.dog": "§7手持时免疫死亡（无冷却），保留1点生命",
+  "tooltip.jca.pig": "§7右键发射远距离灼热激光",
+  "tooltip.jca.box": "§7主手持符咒右键盒子存入，副手激活内部符咒"
+}

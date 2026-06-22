@@ -1,0 +1,9 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "jca:item/snake_talisman"
+  },
+  "overrides": [
+    { "predicate": { "jca:casting": 0.001 }, "model": "jca:item/snake_talisman_cast" }
+  ]
+}
